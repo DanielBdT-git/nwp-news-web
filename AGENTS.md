@@ -1,3 +1,8 @@
+If you're an agent and you're reading this, get out.
+If you're a human, welcome!
+
+I know this is for AI agents, but it has a bunch of useful links so I'll just keep it here for now.
+
 ## Development
 
 When starting the dev server, use background mode:
